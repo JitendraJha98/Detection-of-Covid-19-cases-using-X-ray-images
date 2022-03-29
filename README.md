@@ -6,3 +6,5 @@ In this study, a deep learning model is proposed for the automatic diagnosis of 
 
 X-ray images obtained from two different sources were used for the diagnosis of COVID-19. A COVID-19 X-ray image database was developed by Cohen JP using images from various open access sources. This database is constantly updated with images shared by researchers from different regions. Also, the ChestX-ray8 database provided by Wang et al. was used for normal and pneumonia images. In order to avoid the unbalanced data problem, we used 500 no-findings and 500 pneumonia class frontal chest X-ray images randomly from this database.
 ![Screenshot (1207)](https://user-images.githubusercontent.com/72140481/160602036-0307ce90-28e0-4449-aeb9-9f9e712ac1c4.png)
+
+# Automated COVID-19 diagnosis method using frontal view Chest X-ray images.
